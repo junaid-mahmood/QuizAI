@@ -1,4 +1,4 @@
-# QuizAICreate - README
+# QuizAI
 
 ## Overview
 
@@ -18,7 +18,7 @@ With QuizAICreate, you can type in a topic (e.g., "Create a quiz about Renaissan
 ## Getting Started
 
 1. **Visit the Website**  
-   Go to the [QuizAICreate website](https://github.com/junaid-mahmood/QuizAICreate) to begin using the tool.
+   Go to the [QuizAICreate website](https://quiz-ai-roan.vercel.app/) to begin using the tool.
 
 2. **Sign Up / Log In**  
    Create an account or log in to access your dashboard and manage your quizzes.
