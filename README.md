@@ -4,7 +4,7 @@
 
 QuizAICreate is a tool that allows users to instantly generate quizzes on any topic they desire using AI. 
 
-#With QuizAICreate, you can type in a topic (e.g., "Create a quiz about Renaissance Art") and get a customized quiz with multiple-choice questions or other formats. The generated quizzes are perfect for educators, learners, and anyone looking to create fun and interactive assessments.
+With QuizAICreate, you can type in a topic (e.g., "Create a quiz about Renaissance Art") and get a customized quiz with multiple-choice questions or other formats.
 
 ## Features
 
