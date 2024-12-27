@@ -1,0 +1,18 @@
+.app {
+  min-height: 100vh;
+  background-color: var(--bg-primary);
+}
+
+.my-quizzes {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.my-quizzes h1 {
+  color: var(--text-primary);
+}
+
+.my-quizzes p {
+  color: var(--text-secondary);
+}

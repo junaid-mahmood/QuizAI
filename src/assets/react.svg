@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+    <!-- Background circle -->
+    <circle cx="128" cy="128" r="120" fill="#FFD700" opacity="0.05"/>
+    
+    <!-- Atomic structure -->
+    <g>
+        <ellipse cx="128" cy="128" rx="110" ry="40" fill="none" stroke="#FFD700" stroke-width="2" transform="rotate(45 128 128)"/>
+        <ellipse cx="128" cy="128" rx="110" ry="40" fill="none" stroke="#FFD700" stroke-width="2" transform="rotate(-45 128 128)"/>
+        
+        <circle cx="220" cy="128" r="8" fill="#FFD700">
+            <animateMotion 
+                dur="3s" 
+                repeatCount="indefinite"
+                path="M0 0 A110 40 0 1 1 0 -0.1 Z"
+                transform="rotate(45 128 128)"/>
+        </circle>
+        <circle cx="128" cy="220" r="8" fill="#FFD700">
+            <animateMotion 
+                dur="3s" 
+                repeatCount="indefinite"
+                path="M0 0 A110 40 0 1 1 0 -0.1 Z"
+                transform="rotate(-45 128 128)"/>
+        </circle>
+    </g>
+    
+    <path fill="#00D8FF" d="
+        M128 78
+        A50 50 0 0 1 128 178
+        A50 50 0 0 1 128 78
+        M128 98
+        A30 30 0 0 0 128 158
+        A30 30 0 0 0 128 98
+        Z
+    "/>
+    
+    <path fill="#00D8FF" d="M160 160 L180 180" stroke="#00D8FF" stroke-width="12" stroke-linecap="round"/>
+</svg>
